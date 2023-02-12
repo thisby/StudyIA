@@ -1,0 +1,2 @@
+lolminer custom packe qui tourne dans un docker securisé, qui puisse utiliser les ressources GPU du VPS courant, téléchargeable via un script bash
+
